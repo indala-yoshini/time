@@ -1,0 +1,21 @@
+body {
+
+
+    min-width:800px;
+    width:100%;
+    justify-content:center;
+    text-align:center;
+    margin-top:16%;
+    align-items:center;
+}
+
+.clock {
+   
+    color: white;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+   
+
+
+}
